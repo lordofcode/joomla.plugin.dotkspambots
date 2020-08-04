@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extension version="3.1" type="plugin" group="system">
+
+	<name>plg_system_dotkspambots</name>
+
+	<author>Joomla! Project</author>
+
+	<creationDate>March 2018</creationDate>
+
+	<copyright>Copyright (C) 2005 - 2018 Open Source Matters. All rights reserved.</copyright>
+
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+
+	<authorEmail>social@solution4u.nl</authorEmail>
+
+	<authorUrl>https://solution4u.nl/</authorUrl>
+
+	<version>3.1.0</version>
+
+	<description>DOTK: Spambots blokkeren</description>
+
+	<files>
+
+		<filename plugin="dotkspambots">dotkspambots.php</filename>
+
+		<filename>index.html</filename>
+
+	</files>
+
+	<languages/>
+
+	<config>
+
+		<fields name="params" />
+
+	</config>
+
+</extension>
